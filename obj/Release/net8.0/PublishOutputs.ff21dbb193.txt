@@ -1,0 +1,13 @@
+C:\Users\Mahmut\source\repos\WebbilirCRUD\WebbilirCRUD\obj\Release\net8.0\PubTmp\Out\WebbilirCRUD.exe
+C:\Users\Mahmut\source\repos\WebbilirCRUD\WebbilirCRUD\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Mahmut\source\repos\WebbilirCRUD\WebbilirCRUD\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Mahmut\source\repos\WebbilirCRUD\WebbilirCRUD\obj\Release\net8.0\PubTmp\Out\WebbilirCRUD.dll
+C:\Users\Mahmut\source\repos\WebbilirCRUD\WebbilirCRUD\obj\Release\net8.0\PubTmp\Out\WebbilirCRUD.deps.json
+C:\Users\Mahmut\source\repos\WebbilirCRUD\WebbilirCRUD\obj\Release\net8.0\PubTmp\Out\WebbilirCRUD.runtimeconfig.json
+C:\Users\Mahmut\source\repos\WebbilirCRUD\WebbilirCRUD\obj\Release\net8.0\PubTmp\Out\WebbilirCRUD.pdb
+C:\Users\Mahmut\source\repos\WebbilirCRUD\WebbilirCRUD\obj\Release\net8.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\Mahmut\source\repos\WebbilirCRUD\WebbilirCRUD\obj\Release\net8.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\Mahmut\source\repos\WebbilirCRUD\WebbilirCRUD\obj\Release\net8.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\Mahmut\source\repos\WebbilirCRUD\WebbilirCRUD\obj\Release\net8.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\Mahmut\source\repos\WebbilirCRUD\WebbilirCRUD\obj\Release\net8.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mahmut\source\repos\WebbilirCRUD\WebbilirCRUD\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
